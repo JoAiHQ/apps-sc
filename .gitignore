@@ -1,5 +1,6 @@
 /target
 **/target
+**/wasm/wasm/
 Cargo.lock
 *.pem
 *.key
