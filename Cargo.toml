@@ -4,6 +4,7 @@ members = [
     "loyalty",
     "coupon",
     "signature",
+    "shop",
 ]
 exclude = [
     "challenge/meta",
@@ -14,5 +15,7 @@ exclude = [
     "coupon/wasm",
     "signature/meta",
     "signature/wasm",
+    "shop/meta",
+    "shop/wasm",
 ]
 resolver = "2"
