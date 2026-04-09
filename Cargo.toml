@@ -1,0 +1,12 @@
+[workspace]
+members = [
+    "challenge",
+    "loyalty",
+]
+exclude = [
+    "challenge/meta",
+    "challenge/wasm",
+    "loyalty/meta",
+    "loyalty/wasm",
+]
+resolver = "2"
