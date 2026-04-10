@@ -3,6 +3,7 @@ members = [
     "challenge",
     "loyalty",
     "coupon",
+    "poll",
     "signature",
     "shop",
 ]
@@ -13,6 +14,9 @@ exclude = [
     "loyalty/wasm",
     "coupon/meta",
     "coupon/wasm",
+    "poll/meta",
+    "poll/wasm",
+    "poll/tests",
     "signature/meta",
     "signature/wasm",
     "shop/meta",
